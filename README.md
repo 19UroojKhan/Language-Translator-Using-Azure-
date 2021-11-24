@@ -1,2 +1,2 @@
-# Language-Translator-Using-Azure-
+# Language-Translator-Using-Azure Cognitive Services
 In the project of Language Translator Using Azure one can translate from one language to several others by Text translation which is a cloud-based REST API feature of the Translator service that uses neural machine translation technology to enable quick and accurate source-to-target text translation in real time across all supported languages. Also with the help of Azure Cognitive services and Cognitive search use in Language Translator by taking subscription key in python code by API management and  take endpoints by Cognitive services.
